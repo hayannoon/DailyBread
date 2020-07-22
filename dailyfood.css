@@ -1,0 +1,43 @@
+body {
+  background-color: #e6f4fa;
+  width: 80%;
+  margin: auto;
+}
+
+p {
+  font-size: 17px;
+  line-height: 1.5em;
+  font-family: "맑은 고딕", Helvetica, sans-serif;
+  color: #494949;
+  font-weight: bold;
+}
+
+.dynamiclink, .dynamiclink:hover {
+  cursor: pointer;
+  color: #23527c;
+}
+
+.audiocontroller {
+  border: 1px solid #ccc;
+  padding: 5px;
+  max-width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+
+.audio-logo {
+  color: #FFF;
+  background: #999;
+  padding: 10px;
+  margin: -6px -5px -5px -5px;
+}
+/*
+#play {
+  margin-left: 5px;
+}
+*/
+#notYet{
+  text-align: center;
+  font-size: 200%;
+}

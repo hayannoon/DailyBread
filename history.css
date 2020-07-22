@@ -1,0 +1,18 @@
+h1 {
+  margin: auto;
+  text-align: center;
+}
+
+
+#historyButton{
+text-align: center;
+}
+
+#test{
+  margin: auto;
+}
+body{
+  background-image: url("./image/history.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
